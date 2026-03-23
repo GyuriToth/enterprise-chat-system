@@ -1,3 +1,14 @@
+<p align="center">
+<pre>
+  ██████╗ ██╗   ██╗ ██████╗ ██████╗  ██████╗ ██╗   ██╗    ████████╗ ██████╗ ████████╗██╗  ██╗
+ ██╔════╝ ╚██╗ ██╔╝██╔═══██╗██╔══██╗██╔════╝ ╚██╗ ██╔╝    ╚══██╔══╝██╔═══██╗╚══██╔══╝██║  ██║
+ ██║  ███╗ ╚████╔╝ ██║   ██║██████╔╝██║  ███╗ ╚████╔╝        ██║   ██║   ██║   ██║   ███████║
+ ██║   ██║  ╚██╔╝  ██║   ██║██╔══██╗██║   ██║  ╚██╔╝         ██║   ██║   ██║   ██║   ██║  ██║
+ ╚██████╔╝   ██║   ╚██████╔╝██║  ██║╚██████╔╝   ██║          ██║   ╚██████╔╝   ██║   ██║  ██║
+  ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝          ╚═╝    ╚═════╝    ╚═╝   ╚═╝  ╚═╝
+</pre>
+</p>
+
 # Élő Chat és Bot Rendszer
 
 Ez a projekt egy olyan csevegőalkalmazás, ahol az üzenetek frissítés nélkül, azonnal megjelennek minden résztvevőnél. A rendszer három különálló szolgáltatásból áll, amelyek hálózaton keresztül kommunikálnak egymással.
